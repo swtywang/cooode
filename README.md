@@ -1,0 +1,2 @@
+# cooode
+use for leetcode
