@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7630b88-8627-4d04-ac52-5fe0b6eafdab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lcci/Number07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lcci/Number08.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lcci/compressString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lcci/compressString.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +51,9 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="RunManager" selected="Application.compressString">
-    <configuration name="canPermutePalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lcci.canPermutePalindrome" />
+  <component name="RunManager" selected="Application.Number08">
+    <configuration name="Number08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lcci.Number08" />
       <module name="Coooode" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="checkPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lcci.checkPermutation" />
+    <configuration name="canPermutePalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lcci.canPermutePalindrome" />
       <module name="Coooode" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Number08" />
         <item itemvalue="Application.compressString" />
         <item itemvalue="Application.oneEditAway" />
         <item itemvalue="Application.canPermutePalindrome" />
         <item itemvalue="Application.replaceSpaces" />
-        <item itemvalue="Application.checkPermutation" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +149,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614759431252</updated>
-      <workItem from="1614759433236" duration="26443000" />
+      <workItem from="1614759433236" duration="30652000" />
     </task>
     <servers />
   </component>
@@ -160,50 +161,54 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="360" y="302" key="#xdebugger.evaluate/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1614859628123" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1615186845009">
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1615193666654">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/-254.-1057.1920.1057@0.0.1440.900" timestamp="1615186845009" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615186614738" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1614936626560" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615193108477" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1615193666654" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877/-254.-1057.1920.1057@0.23.1440.877" timestamp="1614840903978" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1615186845005">
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1615193666652">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900/-254.-1057.1920.1057@0.0.1440.900" timestamp="1615186845005" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615186614733" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1614936626554" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615193108471" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1615193666652" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.877/-254.-1057.1920.1057@0.23.1440.877" timestamp="1614840903964" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1615186845004">
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1615193666650">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-254.-1057.1920.1057@0.0.1440.900" timestamp="1615186845004" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-254.-1057.1920.1057@0.23.1440.877" timestamp="1614840903955" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615186614725" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1614936626551" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1615186845007">
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615193108469" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1615193666650" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1615193666653">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-254.-1057.1920.1057@0.0.1440.900" timestamp="1615186845007" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615186614735" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1614936626557" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615193108474" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1615193666653" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.877/-254.-1057.1920.1057@0.23.1440.877" timestamp="1614840903974" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1614941763507">
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1615193666660">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1614941763507" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1614941763501">
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615193108657" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1615193666660" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1615193666657">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1614941763501" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1614941763498">
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615193108651" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1615193666657" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1615193666656">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1614941763498" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1614941763503">
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615193108649" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1615193666656" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1615193666658">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1614941763503" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615193108654" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1615193666658" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -222,6 +227,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/lcci/compressString.java</url>
           <line>31</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lcci/Number08.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
