@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7630b88-8627-4d04-ac52-5fe0b6eafdab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jindian/canPermutePalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jindian/checkPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jindian/replaceSpaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lcci/compressString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lcci/oneEditAway.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jindian/isUniqueString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jindian/isUniqueString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jindian/isUniqueString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jindian/isUniqueString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jindian/canPermutePalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lcci/canPermutePalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jindian/checkPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lcci/checkPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jindian/isUniqueString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lcci/isUniqueString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jindian/replaceSpaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lcci/replaceSpaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jindian/canPermutePalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jindian/checkPermutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jindian/isUniqueString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jindian/replaceSpaces.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +59,13 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="RunManager" selected="Application.canPermutePalindrome">
+  <component name="RunManager" selected="Application.compressString">
     <configuration name="canPermutePalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jindian.canPermutePalindrome" />
+      <option name="MAIN_CLASS_NAME" value="lcci.canPermutePalindrome" />
       <module name="Coooode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jindian.*" />
+          <option name="PATTERN" value="lcci.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,11 +74,11 @@
       </method>
     </configuration>
     <configuration name="checkPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jindian.checkPermutation" />
+      <option name="MAIN_CLASS_NAME" value="lcci.checkPermutation" />
       <module name="Coooode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jindian.*" />
+          <option name="PATTERN" value="lcci.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +86,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isUniqueString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jindian.isUniqueString" />
+    <configuration name="compressString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lcci.compressString" />
       <module name="Coooode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jindian.*" />
+          <option name="PATTERN" value="lcci.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oneEditAway" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lcci.oneEditAway" />
+      <module name="Coooode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lcci.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,11 +113,11 @@
       </method>
     </configuration>
     <configuration name="replaceSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jindian.replaceSpaces" />
+      <option name="MAIN_CLASS_NAME" value="lcci.replaceSpaces" />
       <module name="Coooode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jindian.*" />
+          <option name="PATTERN" value="lcci.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,10 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.compressString" />
+        <item itemvalue="Application.oneEditAway" />
         <item itemvalue="Application.canPermutePalindrome" />
         <item itemvalue="Application.replaceSpaces" />
         <item itemvalue="Application.checkPermutation" />
-        <item itemvalue="Application.isUniqueString" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +157,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614759431252</updated>
-      <workItem from="1614759433236" duration="11139000" />
+      <workItem from="1614759433236" duration="22968000" />
     </task>
     <servers />
   </component>
@@ -151,64 +169,64 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="360" y="302" key="#xdebugger.evaluate/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1614859628123" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1614859688005">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1615186614738">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1614859688005" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1614849723517" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615186614738" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1614936626560" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877/-254.-1057.1920.1057@0.23.1440.877" timestamp="1614840903978" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1614859688000">
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1615186614733">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1614859688000" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1614849723514" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615186614733" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1614936626554" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.877/-254.-1057.1920.1057@0.23.1440.877" timestamp="1614840903964" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1614859687997">
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1615186614725">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-254.-1057.1920.1057@0.23.1440.877" timestamp="1614840903955" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1614859687997" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1614849723512" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1614859688003">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615186614725" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1614936626551" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1615186614735">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1614859688003" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1614849723516" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615186614735" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1614936626557" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.877/-254.-1057.1920.1057@0.23.1440.877" timestamp="1614840903974" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1614859676691">
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1614941763507">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1614859676691" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1614859676685">
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1614941763507" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1614941763501">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1614859676685" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1614859676682">
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1614941763501" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1614941763498">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1614859676682" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1614859676688">
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1614941763498" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1614941763503">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1614859676688" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1614941763503" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/jindian/replaceSpaces.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/lcci/replaceSpaces.java</url>
           <line>25</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/jindian/replaceSpaces.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/lcci/replaceSpaces.java</url>
           <line>44</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/jindian/canPermutePalindrome.java</url>
-          <line>57</line>
-          <option name="timeStamp" value="6" />
+          <url>file://$PROJECT_DIR$/src/main/java/lcci/compressString.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

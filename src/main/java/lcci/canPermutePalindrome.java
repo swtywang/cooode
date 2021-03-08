@@ -1,4 +1,4 @@
-package jindian;
+package lcci;
 
 import java.util.*;
 
