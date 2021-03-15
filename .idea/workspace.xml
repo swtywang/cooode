@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7630b88-8627-4d04-ac52-5fe0b6eafdab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lcci/Number09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lcci/Number10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lcci/Number11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lcci/Number12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lcci/Number14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lcci/Number08.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lcci/Number08.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +53,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Number09">
+  <component name="RunManager" selected="Application.Number14">
     <configuration name="Number08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lcci.Number08" />
       <module name="Coooode" />
@@ -78,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="canPermutePalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lcci.canPermutePalindrome" />
+    <configuration name="Number10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lcci.Number10" />
       <module name="Coooode" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="compressString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lcci.compressString" />
+    <configuration name="Number12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lcci.Number12" />
       <module name="Coooode" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oneEditAway" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lcci.oneEditAway" />
+    <configuration name="Number14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lcci.Number14" />
       <module name="Coooode" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Number14" />
+        <item itemvalue="Application.Number12" />
+        <item itemvalue="Application.Number10" />
         <item itemvalue="Application.Number09" />
         <item itemvalue="Application.Number08" />
-        <item itemvalue="Application.compressString" />
-        <item itemvalue="Application.oneEditAway" />
-        <item itemvalue="Application.canPermutePalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +152,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614759431252</updated>
       <workItem from="1614759433236" duration="31027000" />
-      <workItem from="1615343077744" duration="3904000" />
+      <workItem from="1615343077744" duration="18516000" />
     </task>
     <servers />
   </component>
@@ -163,54 +165,54 @@
     </state>
     <state x="360" y="302" key="#xdebugger.evaluate/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1614859628123" />
     <state x="360" y="302" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1615367035648" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1615462888566">
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1615809613833">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/-254.-1057.1920.1057@0.0.1440.900" timestamp="1615186845009" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615462888566" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1615367967119" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615809613833" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1615544566477" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877/-254.-1057.1920.1057@0.23.1440.877" timestamp="1614840903978" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1615462888561">
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1615809613829">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900/-254.-1057.1920.1057@0.0.1440.900" timestamp="1615186845005" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615462888561" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1615367967116" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615809613829" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1615544566474" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.877/-254.-1057.1920.1057@0.23.1440.877" timestamp="1614840903964" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1615462888559">
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1615809613827">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-254.-1057.1920.1057@0.0.1440.900" timestamp="1615186845004" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-254.-1057.1920.1057@0.23.1440.877" timestamp="1614840903955" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615462888559" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1615367967115" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1615462888564">
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615809613827" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1615544566472" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1615809613831">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-254.-1057.1920.1057@0.0.1440.900" timestamp="1615186845007" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615462888564" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1615367967118" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615809613831" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1615544566475" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.877/-254.-1057.1920.1057@0.23.1440.877" timestamp="1614840903974" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1615462639130">
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1615809614043">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615462639130" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1615367670233" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1615462639126">
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615809614043" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1615544566483" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1615809614034">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615462639126" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1615367670230" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1615462639124">
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615809614034" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1615544566479" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1615809614029">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615462639124" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1615367670229" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1615462639128">
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615809614029" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1615544566478" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1615809614041">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615462639128" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1615367670232" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900/-254.-1080.1920.1080@0.0.1440.900" timestamp="1615809614041" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1615544566481" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -234,6 +236,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/lcci/Number08.java</url>
           <line>36</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lcci/Number10.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lcci/Number14.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lcci/Number14.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
